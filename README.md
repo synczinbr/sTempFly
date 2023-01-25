@@ -1,7 +1,7 @@
 # sTempFly
 
-Não necessita de configuração.
-Esse plugin possibiita você dar fly para jogadores por apenas um determinado tempo, 5, 10, 15 minutos... tanto faz.
+Não precisa de configuração.
+* Esse plugin possibiita você dar fly para jogadores por apenas um determinado tempo, 5, 10, 15 minutos... tanto faz.
 
 Comandos:
  - `/tempfly help - manda a mensagem de ajuda e mostra os comandos do plugin (e como usá-los)`
