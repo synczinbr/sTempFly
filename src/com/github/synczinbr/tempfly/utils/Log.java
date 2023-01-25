@@ -42,12 +42,4 @@ public class Log {
 	public static void fatal(String message) {
 		console.sendMessage(ChatColor.GREEN + "[syncPlugins] " + $plugin_name_prefix + ChatColor.DARK_RED + "[FATAL] " + ChatColor.WHITE + "" + message);
 	}
-	
-	public static void enable() {
-		console.sendMessage(ChatColor.AQUA + "  _________.__. ____   ____ ");
-		console.sendMessage(ChatColor.AQUA + " /  ___<   |  |/    \\_/ ___\\ " + " " + ChatColor.RED + "   _  _");
-		console.sendMessage(ChatColor.AQUA + " \\___ \\ \\___  |   |  \\  \\___ " + " " + ChatColor.RED + "  ( `' )" + ChatColor.YELLOW + "  - obrigado por");
-		console.sendMessage(ChatColor.AQUA + "/____  >/ ____|___|  /\\___  >" + " " + ChatColor.RED + "   `.,'" + ChatColor.YELLOW + "  usar meus plugins");
-		console.sendMessage(ChatColor.AQUA + "     \\/ \\/         \\/     \\/ " + ChatColor.GRAY + "  * www.github.com/synczinbr");	
-	}
 }
