@@ -10,3 +10,5 @@ Comandos:
  
 Permissões:
  - `syncplugins.tempfly.admin` - acesso aos comandos de admin (help, give e list)
+ 
+ 
