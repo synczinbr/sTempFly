@@ -21,7 +21,6 @@ public class TempFly implements CommandExecutor {
 				sender.sendMessage("§f");
 				sender.sendMessage("§b/tempfly help §f- §aretorna essa mensagem");
 				sender.sendMessage("§b/tempfly give <player> <tempo> §f- §adá fly por tempo determinado pra um jogador");
-				sender.sendMessage("§b/tempfly giveall <tempo> §f- §adá fly para todos do servidor por determinado tempo");
 				sender.sendMessage("§b/tempfly list §f- §amostra os jogadores que tem um tempfly ativo");
 				sender.sendMessage("§f");
 				sender.sendMessage("§7Observação: O tempo é dado em minutos.");
