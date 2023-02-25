@@ -1,0 +1,7 @@
+# Algumas configurações do plugin #
+
+# Mundos que o Fly é permitido #
+# Letra minúscula e maiúscula não fazem diferença, não precisa por spawn e Spawn #
+worlds:
+  - 'terrenos'
+  - 'spawn'

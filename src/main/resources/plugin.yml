@@ -1,0 +1,19 @@
+main: com.github.synczinbr.tempfly.TemporaryFly
+name: sTempFly
+author: synczinbr
+website: github.com/synczinbr
+version: 1.0-Stable
+description: Um plugin que possibilita de staffs darem o poder de tempfly durante determinado tempo pra players
+
+commands:
+  tempfly:
+    aliases:
+      - flytemp
+      - voartemp
+      - tempvoo
+    description: Comando principal do plugin (github.com/synczinbr/sTempFly)
+
+permissions:
+  stempfly.admin.all:
+    default: op
+  
