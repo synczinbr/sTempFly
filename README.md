@@ -1,6 +1,6 @@
 # sTempFly
 
-Não precisa de configuração.
+Adicione os mundos permitidos na configuração do plugin.
 * Esse plugin possibiita você dar fly para jogadores por apenas um determinado tempo, 5, 10, 15 minutos... tanto faz.
 
 Comandos:
